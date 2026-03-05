@@ -40,6 +40,7 @@ This dataset was sourced from kaggle. It contains 16 columns and 527 rows.
      ii. Data Cleaning and Formatting.
      iii. Adding new columns to get the total buying values and total selling values.
      iv. Adding new measures to get the profits and profits percentage.
+     
 
 
 ### Exploratory Data Analysis
